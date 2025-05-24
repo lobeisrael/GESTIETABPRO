@@ -1,0 +1,13 @@
+import "admin-lte/plugins/jquery/jquery"
+import "admin-lte/plugins/bootstrap/js/bootstrap.bundle"
+import "admin-lte/plugins/overlayScrollbars/js/jquery.overlayScrollbars"
+import "admin-lte/dist/js/adminlte"
+import "admin-lte/plugins/jquery-mousewheel/jquery.mousewheel"
+import "admin-lte/plugins/raphael/raphael"
+import "admin-lte/plugins/jquery-mapael/jquery.mapael"
+import "admin-lte/plugins/jquery-mapael/maps/usa_states"
+import "admin-lte/plugins/chart.js/Chart"
+import "admin-lte/dist/js/demo"
+import "admin-lte/dist/js/pages/dashboard2"
+import "admin-lte/"
+
